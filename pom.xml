@@ -32,17 +32,16 @@
         </dependency>
     </dependencies>
 
-    <!--
     <repositories>
         <repository>
-            <id>cukesman-java-snapshot-repo</id>
-            <url>http://cukesman.github.io/cukesman-java</url>
+            <id>cukesman-snapshot-repo</id>
+            <url>http://www.pfeiffer-mediation.de/maven-repo/</url>
+            <layout>default</layout>
             <snapshots>
                 <enabled>true</enabled>
                 <updatePolicy>always</updatePolicy>
             </snapshots>
         </repository>
     </repositories>
-    -->
 
 </project>
